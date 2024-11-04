@@ -1,0 +1,15 @@
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\bin\Debug\net8.0\inputs.exe
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\bin\Debug\net8.0\inputs.deps.json
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\bin\Debug\net8.0\inputs.runtimeconfig.json
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\bin\Debug\net8.0\inputs.dll
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\bin\Debug\net8.0\inputs.pdb
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\obj\Debug\net8.0\inputs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\obj\Debug\net8.0\inputs.AssemblyInfoInputs.cache
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\obj\Debug\net8.0\inputs.AssemblyInfo.cs
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\obj\Debug\net8.0\inputs.csproj.CoreCompileInputs.cache
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\obj\Debug\net8.0\inputs.sourcelink.json
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\obj\Debug\net8.0\inputs.dll
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\obj\Debug\net8.0\refint\inputs.dll
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\obj\Debug\net8.0\inputs.pdb
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\obj\Debug\net8.0\inputs.genruntimeconfig.cache
+C:\Users\Adeline\Documents\Programs\C#\src\inputs\obj\Debug\net8.0\ref\inputs.dll
